@@ -12,13 +12,13 @@
 
 - 客户端结构截图
 
-  ![1](C:\Users\y\Desktop\博客\软件申请\项目介绍\1.jpg)
+  ![1](https://res.dreamstudio.online/img/project/1.jpg)
 
   
 
 - 服务端结构截图
 
-  ![2](C:\Users\y\Desktop\博客\软件申请\项目介绍\2.jpg)
+  ![2](https://res.dreamstudio.online/img/project/2.jpg)
 
   
 
@@ -28,11 +28,11 @@
 
 - 客户端
 
-  ![3](C:\Users\y\Desktop\博客\软件申请\项目介绍\3.jpg)
+  ![3](https://res.dreamstudio.online/img/project/3.jpg)
 
 - 服务端
 
-  ![4](C:\Users\y\Desktop\博客\软件申请\项目介绍\4.jpg)
+  ![4](https://res.dreamstudio.online/img/project/4.jpg)
 
 ### 4.项目用到的技术
 
